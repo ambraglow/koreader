@@ -23,6 +23,7 @@ pkgs.mkShell {
     sdl3
     unzip
     wget
+    coreutils-prefixed
     # optional
     ccache
     luajitPackages.luacheck
