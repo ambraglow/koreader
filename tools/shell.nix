@@ -8,6 +8,7 @@ pkgs.mkShell {
     autoconf
     automake
     cmake
+    getopt
     gcc
     gettext
     git
